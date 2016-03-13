@@ -1,0 +1,13 @@
+# Site settings
+title: Tokyo Salesforce Developer Group
+email: tokyosalesforcedg@gmail.com
+description: Tokyo Salesforce Developer Group 公式サイト
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "" # the base hostname & protocol for your site
+
+# twitter_username:
+slack_teamname: tokyosalesforcedg
+github_username: tokyosalesforcedg
+
+# Build settings
+markdown: kramdown
